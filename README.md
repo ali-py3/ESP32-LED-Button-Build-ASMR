@@ -34,10 +34,6 @@ The Arduino sketch is available here:
 
 `ESP32_LED_Button/ESP32_LED_Button.ino`
 
-## Circuit
-
-![ESP32 circuit](circuit.jpg)
-
 ## Video
 
 Watch the full relaxing ESP32 build video on YouTube.
